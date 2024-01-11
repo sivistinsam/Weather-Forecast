@@ -1,4 +1,3 @@
-// const url = "https://wft-geo-db.p.rapidapi.com/v1/geo/adminDivisions";
 export const geoApiOptions = {
   method: "GET",
   headers: {

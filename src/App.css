@@ -6,3 +6,22 @@
 .App{
   padding: 40px;
 }
+.toggle-container{
+  margin-top: 5px;
+  margin-bottom: -25px;
+  padding: 5px;
+  text-align: center;
+}
+.toggle-button{
+  padding:5px;
+  margin:5px;
+  border-radius: 20px;
+  background-color: #212121;
+  color:white;
+  font-weight: 600;
+  cursor:pointer;
+
+}
+.temperature-label{
+  font-weight: 600;
+}
