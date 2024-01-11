@@ -1,5 +1,6 @@
 # Weather Forecast React App
 Hosted Link: https://weatherforecastreactapi.netlify.app/
+
 ![Screenshot 2024-01-12 at 3 51 47 AM](https://github.com/sivistinsam/Weather-Forecast/assets/57314972/0400e287-62f2-45b5-b184-7fac4a37cf28)
 
 
