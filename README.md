@@ -1,6 +1,14 @@
-# Getting Started with Create React App
+# Weather Forecast React App
+![Screenshot 2024-01-12 at 3 51 47 AM](https://github.com/sivistinsam/Weather-Forecast/assets/57314972/0400e287-62f2-45b5-b184-7fac4a37cf28)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+This project is made for showing weather of all cities in the world. we can get all the details of weather like temperature, wind speed, humidity, pressure and also 7 days forecast details.
+
+TechStack Used: HTML, CSS, JAVASCRIPT, REACT, API.
+
+API used: https://wft-geo-db.p.rapidapi.com/v1/geo
+          https://api.openweathermap.org/data/2.5
+
 
 ## Available Scripts
 
